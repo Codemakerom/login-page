@@ -1,7 +1,7 @@
 //login page
 
-#include<iostream.h>
-#inclue<fstream.h>
+#include<iostream>
+#include<fstream>
 
 void main()
 {
